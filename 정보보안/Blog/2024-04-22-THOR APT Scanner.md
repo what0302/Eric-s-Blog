@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XZ Utils 공급망 취약점 (CVE-2024-3094)"
+title: "THOR APT Scanner"
 tags: [정보보안, 툴]
 comments: true
 ---
