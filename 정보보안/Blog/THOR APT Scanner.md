@@ -1,4 +1,4 @@
-# THOR APT Scanner 툴을 활용한 침해 진단 업무
+# THOR APT Scanner를 활용한 침해 진단 업무
 ##### 원작자: 문광일 PM
 ##### 링크: [KOROMOON][KOROMOONlink]
 [KOROMOONlink]: https://koromoon.blogspot.com/2022/09/thor-apt-scanner.html "Go KOROMOON"
